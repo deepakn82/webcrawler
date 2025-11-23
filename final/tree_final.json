@@ -1,0 +1,468 @@
+{
+  "name": "www.python.org/",
+  "url": "https://www.python.org/",
+  "children": [
+    {
+      "name": "/cgi-bin",
+      "url": null,
+      "children": [
+        {
+          "name": "/cgi-bin/moinmoin",
+          "url": null,
+          "children": [
+            {
+              "name": "/cgi-bin/moinmoin/PythonSoftwareFoundationLicenseFaq",
+              "url": "http://www.python.org/cgi-bin/moinmoin/PythonSoftwareFoundationLicenseFaq",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "/community",
+      "url": "https://www.python.org/community",
+      "children": [
+        {
+          "name": "/community/lists",
+          "url": "https://www.python.org/community/lists",
+          "children": []
+        },
+        {
+          "name": "/community/awards",
+          "url": "https://www.python.org/community/awards",
+          "children": []
+        },
+        {
+          "name": "/community/diversity",
+          "url": "https://www.python.org/community/diversity",
+          "children": []
+        },
+        {
+          "name": "/community/forums",
+          "url": "https://www.python.org/community/forums",
+          "children": []
+        },
+        {
+          "name": "/community/irc",
+          "url": "https://www.python.org/community/irc",
+          "children": []
+        },
+        {
+          "name": "/community/logos",
+          "url": "https://www.python.org/community/logos",
+          "children": []
+        },
+        {
+          "name": "/community/sigs",
+          "url": "https://www.python.org/community/sigs",
+          "children": []
+        },
+        {
+          "name": "/community/survey",
+          "url": "https://www.python.org/community/survey",
+          "children": []
+        },
+        {
+          "name": "/community/workshops",
+          "url": "https://www.python.org/community/workshops",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/dev",
+      "url": "https://www.python.org/dev",
+      "children": [
+        {
+          "name": "/dev/core-mentorship",
+          "url": "https://www.python.org/dev/core-mentorship",
+          "children": []
+        },
+        {
+          "name": "/dev/security",
+          "url": "https://www.python.org/dev/security",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/doc",
+      "url": "https://www.python.org/doc",
+      "children": [
+        {
+          "name": "/doc/faq",
+          "url": "http://www.python.org/doc/faq",
+          "children": [
+            {
+              "name": "/doc/faq/windows",
+              "url": "http://www.python.org/doc/faq/windows",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "/doc/av",
+          "url": "https://www.python.org/doc/av",
+          "children": []
+        },
+        {
+          "name": "/doc/essays",
+          "url": "https://www.python.org/doc/essays",
+          "children": []
+        },
+        {
+          "name": "/doc/nonenglish",
+          "url": "https://www.python.org/doc/nonenglish",
+          "children": []
+        },
+        {
+          "name": "/doc/versions",
+          "url": "https://www.python.org/doc/versions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/patches",
+      "url": "http://www.python.org/patches",
+      "children": []
+    },
+    {
+      "name": "/psf",
+      "url": "https://www.python.org/psf",
+      "children": [
+        {
+          "name": "/psf/donations",
+          "url": "https://www.python.org/psf/donations",
+          "children": []
+        },
+        {
+          "name": "/psf/annual-report",
+          "url": null,
+          "children": [
+            {
+              "name": "/psf/annual-report/2024",
+              "url": "https://www.python.org/psf/annual-report/2024",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "/psf/community-stories",
+          "url": "https://www.python.org/psf/community-stories",
+          "children": []
+        },
+        {
+          "name": "/psf/conduct",
+          "url": "https://www.python.org/psf/conduct",
+          "children": []
+        },
+        {
+          "name": "/psf/contrib",
+          "url": null,
+          "children": [
+            {
+              "name": "/psf/contrib/contrib-form",
+              "url": "https://www.python.org/psf/contrib/contrib-form",
+              "children": []
+            },
+            {
+              "name": "/psf/contrib/contrib-form-jython",
+              "url": "https://www.python.org/psf/contrib/contrib-form-jython",
+              "children": []
+            },
+            {
+              "name": "/psf/contrib/contrib-form-python",
+              "url": "https://www.python.org/psf/contrib/contrib-form-python",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "/psf/get-involved",
+          "url": "https://www.python.org/psf/get-involved",
+          "children": []
+        },
+        {
+          "name": "/psf/membership",
+          "url": "https://www.python.org/psf/membership",
+          "children": []
+        },
+        {
+          "name": "/psf/membership-faq",
+          "url": "https://www.python.org/psf/membership-faq",
+          "children": []
+        },
+        {
+          "name": "/psf/mission",
+          "url": "https://www.python.org/psf/mission",
+          "children": []
+        },
+        {
+          "name": "/psf/newsletter",
+          "url": "https://www.python.org/psf/newsletter",
+          "children": []
+        },
+        {
+          "name": "/psf/sponsors",
+          "url": "https://www.python.org/psf/sponsors",
+          "children": []
+        },
+        {
+          "name": "/psf/sponsorship",
+          "url": "https://www.python.org/psf/sponsorship",
+          "children": []
+        },
+        {
+          "name": "/psf/workgroups",
+          "url": "https://www.python.org/psf/workgroups",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/search",
+      "url": "http://www.python.org/search",
+      "children": []
+    },
+    {
+      "name": "/sigs",
+      "url": null,
+      "children": [
+        {
+          "name": "/sigs/doc-sig",
+          "url": "http://www.python.org/sigs/doc-sig",
+          "children": []
+        },
+        {
+          "name": "/sigs/edu-sig",
+          "url": "http://www.python.org/sigs/edu-sig",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/about",
+      "url": "https://www.python.org/about",
+      "children": [
+        {
+          "name": "/about/apps",
+          "url": "https://www.python.org/about/apps",
+          "children": []
+        },
+        {
+          "name": "/about/gettingstarted",
+          "url": "https://www.python.org/about/gettingstarted",
+          "children": []
+        },
+        {
+          "name": "/about/help",
+          "url": "https://www.python.org/about/help",
+          "children": []
+        },
+        {
+          "name": "/about/legal",
+          "url": "https://www.python.org/about/legal",
+          "children": []
+        },
+        {
+          "name": "/about/quotes",
+          "url": "https://www.python.org/about/quotes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/accounts",
+      "url": null,
+      "children": [
+        {
+          "name": "/accounts/login",
+          "url": "https://www.python.org/accounts/login",
+          "children": []
+        },
+        {
+          "name": "/accounts/signup",
+          "url": "https://www.python.org/accounts/signup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/blogs",
+      "url": "https://www.python.org/blogs",
+      "children": []
+    },
+    {
+      "name": "/download",
+      "url": null,
+      "children": [
+        {
+          "name": "/download/alternatives",
+          "url": "https://www.python.org/download/alternatives",
+          "children": []
+        },
+        {
+          "name": "/download/other",
+          "url": "https://www.python.org/download/other",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/downloads",
+      "url": "https://www.python.org/downloads",
+      "children": [
+        {
+          "name": "/downloads/android",
+          "url": "https://www.python.org/downloads/android",
+          "children": []
+        },
+        {
+          "name": "/downloads/macos",
+          "url": "https://www.python.org/downloads/macos",
+          "children": []
+        },
+        {
+          "name": "/downloads/operating-systems",
+          "url": "https://www.python.org/downloads/operating-systems",
+          "children": []
+        },
+        {
+          "name": "/downloads/source",
+          "url": "https://www.python.org/downloads/source",
+          "children": []
+        },
+        {
+          "name": "/downloads/windows",
+          "url": "https://www.python.org/downloads/windows",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "/events",
+      "url": "https://www.python.org/events",
+      "children": [
+        {
+          "name": "/events/python-events",
+          "url": "https://www.python.org/events/python-events",
+          "children": [
+            {
+              "name": "/events/python-events/past",
+              "url": "https://www.python.org/events/python-events/past",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "/events/python-user-group",
+          "url": "https://www.python.org/events/python-user-group",
+          "children": [
+            {
+              "name": "/events/python-user-group/past",
+              "url": "https://www.python.org/events/python-user-group/past",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "/ftp",
+      "url": null,
+      "children": [
+        {
+          "name": "/ftp/python",
+          "url": null,
+          "children": [
+            {
+              "name": "/ftp/python/3.14.0",
+              "url": null,
+              "children": [
+                {
+                  "name": "/ftp/python/3.14.0/Python-3.14.0.tar.xz",
+                  "url": "https://www.python.org/ftp/python/3.14.0/Python-3.14.0.tar.xz",
+                  "children": []
+                },
+                {
+                  "name": "/ftp/python/3.14.0/python-3.14.0-amd64.exe",
+                  "url": "https://www.python.org/ftp/python/3.14.0/python-3.14.0-amd64.exe",
+                  "children": []
+                },
+                {
+                  "name": "/ftp/python/3.14.0/python-3.14.0-macos11.pkg",
+                  "url": "https://www.python.org/ftp/python/3.14.0/python-3.14.0-macos11.pkg",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "/jobs",
+      "url": "https://www.python.org/jobs",
+      "children": []
+    },
+    {
+      "name": "/privacy",
+      "url": "https://www.python.org/privacy",
+      "children": []
+    },
+    {
+      "name": "/psf-landing",
+      "url": "https://www.python.org/psf-landing",
+      "children": []
+    },
+    {
+      "name": "/success-stories",
+      "url": "https://www.python.org/success-stories",
+      "children": [
+        {
+          "name": "/success-stories/category",
+          "url": null,
+          "children": [
+            {
+              "name": "/success-stories/category/arts",
+              "url": "https://www.python.org/success-stories/category/arts",
+              "children": []
+            },
+            {
+              "name": "/success-stories/category/business",
+              "url": "https://www.python.org/success-stories/category/business",
+              "children": []
+            },
+            {
+              "name": "/success-stories/category/education",
+              "url": "https://www.python.org/success-stories/category/education",
+              "children": []
+            },
+            {
+              "name": "/success-stories/category/engineering",
+              "url": "https://www.python.org/success-stories/category/engineering",
+              "children": []
+            },
+            {
+              "name": "/success-stories/category/government",
+              "url": "https://www.python.org/success-stories/category/government",
+              "children": []
+            },
+            {
+              "name": "/success-stories/category/scientific",
+              "url": "https://www.python.org/success-stories/category/scientific",
+              "children": []
+            },
+            {
+              "name": "/success-stories/category/software-development",
+              "url": "https://www.python.org/success-stories/category/software-development",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
